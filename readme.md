@@ -30,7 +30,8 @@ If same logical records are encountered in file imports beyond the first, the ne
 
 # To Use
 
-Ensure that NodeJS is installed. Navigate to the project directory. In order to run tests, additionally execute `npm install` from the command line to install the Mocha testing library.
+Ensure that NodeJS is installed. Navigate to the project directory. 
+In order to run tests, additionally execute `npm install` from the command line to install the Mocha testing library.
 
 Running the app will use this structure.
 ```
